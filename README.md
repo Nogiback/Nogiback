@@ -4,11 +4,16 @@ Hello! I am Peter D. I am a former environmental engineer who is now embarking o
 
 It looks fairly empty right now, but I'm working on it! 
 
-🔭 I’m currently working on ... [The Odin Project!]([url](https://www.theodinproject.com/))
+🔭 I’m currently working on ... [The Odin Project!](https://www.theodinproject.com/)
+<br/>
 🌱 I’m currently learning ... HTML/CSS/Basic Javascript!
+<br/>
 💬 Ask me about ... Anything!
-📫 How to reach me: E-Mail!
+<br/>
+📫 How to reach me: ... E-Mail!
+<br/>
 😄 Pronouns: ... He/Him!
+<br/>
 ⚡ Fun fact: ... I'm half deaf!
 
 More links and stuff to come soon...
