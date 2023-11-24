@@ -6,7 +6,7 @@ It looks fairly empty right now, but I'm working on it!
 
 🔭 I’m currently working on ... [The Odin Project!](https://www.theodinproject.com/)
 <br/>
-🌱 I’m currently learning ... React/Node.js
+🌱 I’m currently learning ... React/Node.js!
 <br/>
 💬 Ask me about ... Anything!
 <br/>
