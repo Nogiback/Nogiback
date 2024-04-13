@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nogiback&label=Profile%20views&color=0e75b6&style=flat" alt="nogiback" /> </p>
 
-- 🔭 I’m currently working on: [The Odin Project](https://www.theodinproject.com/)
+- 🔭 I’m currently working on: [The Odin Project](https://www.theodinproject.com/) and freelance web development projects
 
-- 🌱 I’m currently learning: **Typescript and building Full Stack Applications**
+- 🌱 I’m currently learning: **PostgreSQL and NextJS**
 
 - 💬 Ask me about: **Anything!**
 
