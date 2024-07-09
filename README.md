@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nogiback&label=Profile%20views&color=0e75b6&style=flat" alt="nogiback" /> </p>
 
-- 🔭 I’m currently working on: Freelance web development projects and DSA courses!
+- 🔭 I’m currently working on: **Freelance web development projects and searching for full-time employment**
 
-- 🌱 I’m currently learning: **PostgreSQL, Prisma, NextJS, and Data Structures + Algorithms**
+- 🌱 I’m currently learning: **PostgreSQL, Prisma, NextJS**
 
 - 💬 Ask me about: **Anything!**
 
