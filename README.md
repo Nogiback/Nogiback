@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Peter Do.</h1>
-<h3 align="center">A former environmental engineer entering the world of full stack web development.</h3>
+<h3 align="center">A former environmental engineer entering the world of full stack software engineering</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nogiback&label=Profile%20views&color=0e75b6&style=flat" alt="nogiback" /> </p>
 
-- 🔭 I’m currently working on: **Freelance web development projects and searching for full-time employment**
+- 🔭 I’m currently working on: **my internship at Singularity Softworks and personal projects**
 
-- 🌱 I’m currently learning: **PostgreSQL, Prisma, NextJS**
+- 🌱 I’m currently learning: **Tanstack Query, NextJS, Stripe**
 
 - 💬 Ask me about: **Anything!**
 
