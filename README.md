@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nogiback&label=Profile%20views&color=0e75b6&style=flat" alt="nogiback" /> </p>
 
-- 🔭 I’m currently working on: **my internship at Singularity Softworks and personal projects**
+- 🔭 I’m currently working on: **freelance and personal projects**
 
-- 🌱 I’m currently learning: **Tanstack Query, NextJS, Stripe**
+- 🌱 I’m currently learning: **Tanstack Query, NextJS, Data Visualization**
 
 - 💬 Ask me about: **Anything!**
 
